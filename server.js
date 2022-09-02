@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+/* eslint-disable import/no-extraneous-dependencies */
 // server.js
 const express = require('express');
 const path = require('path');
